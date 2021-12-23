@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naveed087
+- 👋 Hi, I’m Naveed, I live in Oslo and working as a firmware engineer at NSSLGlobal Technologies AS.
 - 👀 I’m interested in food, travel, gadgets, and photography
 - 🌱 I’m currently learning embedded programming
 - 💞️ I’m looking to collaborate on MATLAB, DSP and FPGA based projects
